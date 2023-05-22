@@ -7,7 +7,7 @@
       "target": 68.9,
       "stop": 66.42
     }],
-    "status": "處理中";
+    "status": "處理中"
   },
   {
     "symbol": "NFLX",
@@ -17,7 +17,7 @@
       "target": 68.9,
       "stop": 66.42
     }],
-    "status": "取消";
+    "status": "取消"
   },
   {
     "symbol": "MU",
@@ -27,7 +27,7 @@
       "target": 68.9,
       "stop": 66.42
     }],
-    "status": "勝出";
+    "status": "勝出"
   },
   {
     "symbol": "MU",
@@ -37,6 +37,6 @@
       "target": 68.9,
       "stop": 66.42
     }],
-    "status": "止蝕";
+    "status": "止蝕"
   }
 ]
