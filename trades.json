@@ -20,5 +20,27 @@
       "target": 68.9,
       "stop": 66.42
     }]
+  },
+  {
+    "image": "https://i.imgur.com/05WM9wV.png",
+    "alertDate": "2023-05-21",
+    "company": "Fastly",
+    "symbol": "FAST",
+    "prices": [{
+      "entry": 68.4,
+      "target": 68.9,
+      "stop": 66.42
+    }]
+  },
+  {
+    "image": "https://i.imgur.com/05WM9wV.png",
+    "alertDate": "2023-05-21",
+    "company": "Amazon",
+    "symbol": "AMZN",
+    "prices": [{
+      "entry": 68.4,
+      "target": 68.9,
+      "stop": 66.42
+    }]
   }
 ]
