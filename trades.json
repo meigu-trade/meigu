@@ -1,22 +1,22 @@
-{
-  "2023-05-21": {
+[
+  {
     "image": "https://i.imgur.com/05WM9wV.png",
     "company": "Micron Technology",
     "symbol": "MU",
-    "prices": {
+    "prices": [{
       "entry": 68.4,
       "target": 68.9,
       "stop": 66.42
-    }
+    }]
   },
-  "2023-05-22": {
+  {
     "image": "https://i.imgur.com/05WM9wV.png",
-    "company": "Micron Technology",
-    "symbol": "MU",
-    "prices": {
+    "company": "Netflix",
+    "symbol": "NFLX",
+    "prices": [{
       "entry": 68.4,
       "target": 68.9,
       "stop": 66.42
-    }
+    }]
   }
-}
+]
