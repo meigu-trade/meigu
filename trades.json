@@ -40,19 +40,5 @@
       "target": 68.9,
       "stop": 66.42
     }]
-  },
-  {
-    "image": [{
-      "link": "http://i.imgur.com/05WM9wV.png",
-      "alt": "Micron Technology Logo"
-    }],
-    "alertDate": "2023-05-21",
-    "company": "Micron Technology",
-    "symbol": "MU",
-    "prices": [{
-      "entry": 68.4,
-      "target": 68.9,
-      "stop": 66.42
-    }]
   }
 ]
