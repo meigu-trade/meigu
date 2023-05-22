@@ -1,6 +1,9 @@
 [
   {
-    "image": "https://i.imgur.com/05WM9wV.png",
+    "image": [{
+      "link": "http://i.imgur.com/05WM9wV.png",
+      "alt": "Micron Technology Logo"
+    }],
     "alertDate": "2023-05-21",
     "company": "Micron Technology",
     "symbol": "MU",
@@ -11,7 +14,10 @@
     }]
   },
   {
-    "image": "https://i.imgur.com/05WM9wV.png",
+    "image": [{
+      "link": "http://i.imgur.com/05WM9wV.png",
+      "alt": "Micron Technology Logo"
+    }],
     "alertDate": "2023-05-21",
     "company": "Netflix",
     "symbol": "NFLX",
@@ -22,10 +28,13 @@
     }]
   },
   {
-    "image": "https://i.imgur.com/05WM9wV.png",
+    "image": [{
+      "link": "http://i.imgur.com/05WM9wV.png",
+      "alt": "Micron Technology Logo"
+    }],
     "alertDate": "2023-05-21",
-    "company": "Fastly",
-    "symbol": "FAST",
+    "company": "Micron Technology",
+    "symbol": "MU",
     "prices": [{
       "entry": 68.4,
       "target": 68.9,
@@ -33,10 +42,13 @@
     }]
   },
   {
-    "image": "https://i.imgur.com/05WM9wV.png",
+    "image": [{
+      "link": "http://i.imgur.com/05WM9wV.png",
+      "alt": "Micron Technology Logo"
+    }],
     "alertDate": "2023-05-21",
-    "company": "Amazon",
-    "symbol": "AMZN",
+    "company": "Micron Technology",
+    "symbol": "MU",
     "prices": [{
       "entry": 68.4,
       "target": 68.9,
