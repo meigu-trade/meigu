@@ -1,44 +1,42 @@
 [
   {
-    "image": [{
-      "link": "https://i.imgur.com/05WM9wV.png",
-      "alt": "Micron Technology Logo"
-    }],
-    "alertDate": "2023-05-21",
-    "company": "Micron Technology",
     "symbol": "MU",
+    "goodTill": "2023-05-21",
     "prices": [{
       "entry": 68.4,
       "target": 68.9,
       "stop": 66.42
-    }]
+    }],
+    "status": "處理中";
   },
   {
-    "image": [{
-      "link": "http://i.imgur.com/05WM9wV.png",
-      "alt": "Micron Technology Logo"
-    }],
-    "alertDate": "2023-05-21",
-    "company": "Netflix",
     "symbol": "NFLX",
+    "goodTill": "2023-05-21",
     "prices": [{
       "entry": 68.4,
       "target": 68.9,
       "stop": 66.42
-    }]
+    }],
+    "status": "取消";
   },
   {
-    "image": [{
-      "link": "http://i.imgur.com/05WM9wV.png",
-      "alt": "Micron Technology Logo"
-    }],
-    "alertDate": "2023-05-21",
-    "company": "Micron Technology",
     "symbol": "MU",
+    "goodTill": "2023-05-21",
     "prices": [{
       "entry": 68.4,
       "target": 68.9,
       "stop": 66.42
-    }]
+    }],
+    "status": "勝出";
+  },
+  {
+    "symbol": "MU",
+    "goodTill": "2023-05-21",
+    "prices": [{
+      "entry": 68.4,
+      "target": 68.9,
+      "stop": 66.42
+    }],
+    "status": "止蝕";
   }
 ]
