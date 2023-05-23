@@ -1,42 +1,32 @@
 [
   {
-    "symbol": "MU",
-    "goodTill": "2023-05-21",
+    "symbol": "CRSP",
+    "goodTill": "2023-05-23",
     "prices": [{
-      "entry": 68.4,
-      "target": 68.9,
-      "stop": 66.42
+      "entry": 66.41,
+      "target": 67.62,
+      "stop": 61.57
     }],
     "status": "處理中"
   },
   {
-    "symbol": "NFLX",
-    "goodTill": "2023-05-21",
+    "symbol": "RIOT",
+    "goodTill": "2023-05-23",
     "prices": [{
-      "entry": 68.4,
-      "target": 68.9,
-      "stop": 66.42
+      "entry": 12.21,
+      "target": 12.56,
+      "stop": 10.82
     }],
-    "status": "取消"
+    "status": "處理中"
   },
   {
     "symbol": "MU",
-    "goodTill": "2023-05-21",
+    "goodTill": "2023-05-22",
     "prices": [{
-      "entry": 68.4,
-      "target": 68.9,
-      "stop": 66.42
+      "entry": 45.56,
+      "target": 45.9,
+      "stop": 44.21
     }],
     "status": "勝出"
-  },
-  {
-    "symbol": "MU",
-    "goodTill": "2023-05-21",
-    "prices": [{
-      "entry": 68.4,
-      "target": 68.9,
-      "stop": 66.42
-    }],
-    "status": "止蝕"
   }
 ]
