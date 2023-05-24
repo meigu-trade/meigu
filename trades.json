@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "DEI",
+    "goodTill": "2023-05-24",
+    "prices": [{
+      "entry": 11.71,
+      "target": 12.37,
+      "stop": 11.54
+    }],
+    "status": "處理中"
+  },
+  {
     "symbol": "CRSP",
     "goodTill": "2023-05-23",
     "prices": [{
