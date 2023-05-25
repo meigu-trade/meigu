@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "MMM",
+    "goodTill": "2023-05-25",
+    "prices": [{
+      "entry": 96.96,
+      "target": 96.02,
+      "stop": 100.70
+    }],
+    "status": "處理中"
+  },
+  {
     "symbol": "DEI",
     "goodTill": "2023-05-24",
     "prices": [{
