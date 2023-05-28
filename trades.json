@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "NFLX",
+    "goodTill": "2023-05-30",
+    "prices": [{
+      "entry": 383.77,
+      "target": 390.71,
+      "stop": 355.99
+    }],
+    "status": "處理中"
+  },
+  {
     "symbol": "MMM",
     "goodTill": "2023-05-25",
     "prices": [{
