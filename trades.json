@@ -1,4 +1,13 @@
-[
+[{
+    "symbol": "CCJ",
+    "goodTill": "2023-06-01",
+    "prices": [{
+      "entry": 28.03,
+      "target": 28.50,
+      "stop": 26.14
+    }],
+    "status": "處理中"
+  },
   {
     "symbol": "NFLX",
     "goodTill": "2023-05-30",
@@ -7,7 +16,7 @@
       "target": 390.71,
       "stop": 355.99
     }],
-    "status": "處理中"
+    "status": "取消"
   },
   {
     "symbol": "MMM",
