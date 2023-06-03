@@ -1,4 +1,14 @@
 [{
+    "symbol": "FAST",
+    "goodTill": "2023-06-05",
+    "prices": [{
+      "entry": 55.54,
+      "target": 55.91,
+      "stop": 54.04
+    }],
+    "status": "勝出"
+  },
+ {
     "symbol": "CCJ",
     "goodTill": "2023-06-01",
     "prices": [{
